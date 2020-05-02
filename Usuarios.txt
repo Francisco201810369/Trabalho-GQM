@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Usuarios</title>
+	<meta charset="UTF-8">
+  </head>
+  <body>
+    <form>
+	  <fieldset>
+	   <legend>Clique no botao abaixo paara se logar</legend>
+	   <label>Nome</label>
+	   <input type="text" size="40" maxlength="50" required/>
+	   <br/>
+	   <br/>
+	   <label>Senha</label>
+	   <input type="password" size="40" maxlength="8" required/>
+	   <br/>
+	   <br/>
+	   <label>Data de Nascimento</label>
+	   <input type="datetime-local" required/>
+	   <br/>
+	   <br/>
+	   <label>Sexo</label>
+	   <input type="radio" name="sexo" value="M" required/><label>Masculino</label>
+	   <input type="radio" name="sexo" value="F" required/><label>Feminino</label>
+	   <br/>
+	   <br/>
+	   <label>Estado</label>
+	   <select required>
+	   <option value="">--Selecione--</option>
+	    <option value="AC">Acre</option>
+		<option value="AL">Alagoas</option>
+		<option value="CE">Ceará</option>
+		<option value="DF">Distrito Federal</option>
+	   </select>
+	   <br/>
+	   <br/>
+	   <label>Idiomas</label>
+	   <input type="checkbox" name="idioma" value="Inglês"/><label>Inglês</label>
+	   <input type="checkbox" name="idioma" value="Espanhol"/><label>Espanhol</label>
+	   <br/>
+	   <br/>
+	   <input type="submit" value="Enviar"/>
+	   <input type="reset" value="limpar"/>  
+	  </fieldset>
+	</form>
+   </body>
+</html>

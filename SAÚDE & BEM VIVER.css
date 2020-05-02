@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html>
+
+</head>
+<meta charset="UTF-8">
+<title>SAUDE & BEM VIVER</title>
+</head>
+<style>
+body {
+background-color:#F0FFFF;
+}
+h1 {
+color: red;
+padding: 60px;
+}
+</style>
+</head>
+<body>
+<h1></h1>
+ <div align="center"><img src="Especialidades Medicas/medicos.jpg"width="500" height"400"/></div> 
+
+</html>
+
+  </div>
+               
+                <p id="cont" style="text-align: justify">
+<b> CONVÊNIO MÉDICO SAÚDE & BEM VIVER é um plano de assistência a saúde que nasceu há 15 anos em Sobradinho, cidade satélite do Distrito Federal e por isso sabe como ninguém valorizar e respeitar as pessoas que nela trabalham, conquistar   e manter mercados, adapta-se permanentemente às mudanças e atuar sempre com ética e responsabilidade social. O diferencial da VIDA E SAUDE é oferecer o melhor serviço por um valor que cabe no seu bolso.
+ A modernização e o aprimoramento do nosso plano de saúde são uma prova disto.</b>
+					
+                </p>
+				</div>
+ 
+
+	
+	<div> 
+	<div style="margin-left:0px;">
+	 <b>
+     <h2>Listas de Links</h2>
+
+        <ul type="none">
+        <li>
+		<a href="C:\Users\Sony\Desktop\MENU\.HTML.html" target="_blank">
+		Rede Credenciada
+		</a>
+		<li>
+		<a href="Rol de Procedimentos.HTML" target="_blank">
+		Rol de Procedimentos
+		</a>
+		<li>
+		<a href="Alteracao da Rede Credenciada.HTML" target="_blank">		
+		Alteracao da Rede Credenciada
+		</a>
+		<li>
+		<a href="RN ANS Tipos de contratação.HTML" target="_blank">
+		RN ANS Tipos de contratação
+		</a>
+		<li>
+		<a href="Informações Mínimas.HTML" target="_blank">
+		Informações Mínimas
+		</a>
+		<li>
+		<a href="Termos de Uso.HTML" target="_blank">
+		Termos de Uso
+		</li>
+		</b>
+		<p>
+		</div>
+		<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>Usuarios</title>
+	<meta charset="UTF-8">
+  </head>
+  <body>
+    
+	 <form>
+	  <div style="display: block; text-align:right; width: 1200px; padding-top: 30px;">
+	   <h3>USUÁRIOS</h3>
+	   	    
+	   <label>Login</label>
+	   <input type="text" size="40" maxlength="50" required/>
+	   <br/>
+	   <br/>
+	   <label>Senha</label>
+	   <input type="password" size="40" maxlength="8" required/>
+	   <br/>
+	   	   <input type="submit" value="Acessar"/>
+		   </div>
+	   	 
+	</form>
+	#form{
+	top: 0px;
+	right: 0;
+	position: absolute;
+}	
+   </body>
+</html>

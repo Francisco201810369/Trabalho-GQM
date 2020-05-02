@@ -1,0 +1,50 @@
+
+body {
+   background-color: #CCCCCC;
+   font-size: 120%
+   line-height: 1.5;
+
+
+h1 }
+   /*color modifica a cor da fonte*/
+h1 {
+   color: #FFF;
+   background-color: #851944;
+   border: 10px solid black;
+   font-size: 60px;
+   text-transform: uppercase;
+   text-align: center;
+   }
+   footer{
+	   background-color: #000;
+	   color: #FFFFFF;
+	   position: fixed;
+	   bottom: 0;
+	   left:0:
+	   width: 100%;
+   }  
+	   
+   #container{
+	  width: 600px; /*largura*/
+	  text-align: justify; /*alinha texto justificar*/
+	  margin: auto; /*margem auto - centralizar*/
+   }	   
+	   
+#foto{
+	top: 150px;
+	right: 0;
+	position: absolute;
+}	
+	
+	#navegacao{
+		text-align:left;
+        background-color:#3CID3D;	
+        color:#FFFFFF;
+		width: 200px;
+		left:2%;
+		top: 30%;
+		position: absolute;
+
+	}
+.menu{
+   list-style:none;	
